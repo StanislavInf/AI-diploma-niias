@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "key": "31a7fe5c8d6f4b8e82c7405953e95c56",
+    "tags": [],
+    "objects": [
+        {
+            "key": "9c23a2cdd49b4ad19e33c5190f937eae",
+            "classTitle": "human",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T07:51:32.143Z",
+            "createdAt": "2021-05-20T07:51:32.143Z"
+        },
+        {
+            "key": "68643e85fea14fd9ba6db9b2e6dc6515",
+            "classTitle": "wear",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T12:53:40.991Z",
+            "createdAt": "2021-05-20T12:53:40.991Z"
+        },
+        {
+            "key": "57dc237d8d884d37911f1d580e41e7eb",
+            "classTitle": "other",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T13:30:50.718Z",
+            "createdAt": "2021-05-20T13:30:50.718Z"
+        },
+        {
+            "key": "7156e56f791d45179c5f93c94f16386e",
+            "classTitle": "limb",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T14:34:20.970Z",
+            "createdAt": "2021-05-20T14:34:20.970Z"
+        }
+    ],
+    "figures": [
+        {
+            "key": "06db789a37f84d609ace2c2e8b6479a1",
+            "objectKey": "9c23a2cdd49b4ad19e33c5190f937eae",
+            "geometryType": "cuboid_3d",
+            "geometry": {
+                "position": {
+                    "x": -0.6784765259114598,
+                    "y": -0.22527897222988147,
+                    "z": 2.7555422863443315
+                },
+                "rotation": {
+                    "x": -0.1578262780714891,
+                    "y": 0.11232800850710298,
+                    "z": -3.491450632694504e-18
+                },
+                "dimensions": {
+                    "x": 0.593911400135227,
+                    "y": 0.7445496236505209,
+                    "z": 0.924207257869124
+                }
+            },
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T07:58:49.681Z",
+            "createdAt": "2021-05-20T07:57:59.964Z"
+        }
+    ]
+}

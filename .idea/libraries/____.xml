@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="эталонный_пример_для_высылания_результата">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/эталонный_пример_для_высылания_результата/эталонный_пример_для_высылания_результата/cloud_0_0003.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/эталонный_пример_для_высылания_результата/эталонный_пример_для_высылания_результата/cloud_2_0003.pcd.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,66 @@
+{
+    "description": "",
+    "key": "93b420786bfd44e7af25f03ca4763f06",
+    "tags": [],
+    "objects": [
+        {
+            "key": "2e5244846376485b9d1b293786f125cc",
+            "classTitle": "human",
+            "tags": [],
+            "labelerLogin": "fom_alyona",
+            "updatedAt": "2021-05-18T13:27:58.579Z",
+            "createdAt": "2021-05-18T13:27:58.579Z"
+        },
+        {
+            "key": "d7ea3f1c3342454488e3272fd723b731",
+            "classTitle": "wear",
+            "tags": [],
+            "labelerLogin": "fom_alyona",
+            "updatedAt": "2021-05-18T14:05:26.881Z",
+            "createdAt": "2021-05-18T14:05:26.881Z"
+        },
+        {
+            "key": "9222cc9e41874088b5b98f27471b5db2",
+            "classTitle": "other",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T09:18:14.950Z",
+            "createdAt": "2021-05-20T09:18:14.950Z"
+        },
+        {
+            "key": "a1c723e1720544429836befcfda212e6",
+            "classTitle": "limb",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T11:18:39.576Z",
+            "createdAt": "2021-05-20T11:18:39.576Z"
+        }
+    ],
+    "figures": [
+        {
+            "key": "00f741f9e49a48efa0b8e8d318a23a4b",
+            "objectKey": "2e5244846376485b9d1b293786f125cc",
+            "geometryType": "cuboid_3d",
+            "geometry": {
+                "position": {
+                    "x": 0.08806715056324818,
+                    "y": -0.21223120747234528,
+                    "z": 4.620097842687235
+                },
+                "rotation": {
+                    "x": -0.057631433844842705,
+                    "y": 0.06399289321449776,
+                    "z": -2.1728518392534503e-19
+                },
+                "dimensions": {
+                    "x": 0.4992642649935157,
+                    "y": 0.5275733427154303,
+                    "z": 1.5767816875402982
+                }
+            },
+            "labelerLogin": "fom_alyona",
+            "updatedAt": "2021-05-20T09:03:32.057Z",
+            "createdAt": "2021-05-18T13:30:26.086Z"
+        }
+    ]
+}

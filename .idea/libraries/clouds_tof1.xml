@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="clouds_tof1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0150.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0074.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0013.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0020.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0006.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0080.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0030.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0071.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0076.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0068.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0054.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0047.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0061.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0003.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0010.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0138.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0132.pcd.zip!/" />
+      <root url="jar://$PROJECT_DIR$/res/safety-doors/point_cloud_gt/point_cloud_gt/clouds_tof/cloud_0_0065.pcd.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
