@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "key": "3f29c36e30a84c55a9adf3daed68b5a3",
+    "tags": [],
+    "objects": [
+        {
+            "key": "9c23a2cdd49b4ad19e33c5190f937eae",
+            "classTitle": "human",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T07:51:32.143Z",
+            "createdAt": "2021-05-20T07:51:32.143Z"
+        },
+        {
+            "key": "68643e85fea14fd9ba6db9b2e6dc6515",
+            "classTitle": "wear",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T12:53:40.991Z",
+            "createdAt": "2021-05-20T12:53:40.991Z"
+        },
+        {
+            "key": "57dc237d8d884d37911f1d580e41e7eb",
+            "classTitle": "other",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T13:30:50.718Z",
+            "createdAt": "2021-05-20T13:30:50.718Z"
+        },
+        {
+            "key": "7156e56f791d45179c5f93c94f16386e",
+            "classTitle": "limb",
+            "tags": [],
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T14:34:20.970Z",
+            "createdAt": "2021-05-20T14:34:20.970Z"
+        }
+    ],
+    "figures": [
+        {
+            "key": "8b392df591464195aa0658019b149b01",
+            "objectKey": "9c23a2cdd49b4ad19e33c5190f937eae",
+            "geometryType": "cuboid_3d",
+            "geometry": {
+                "position": {
+                    "x": -0.5813451958841921,
+                    "y": 0.18160724317895005,
+                    "z": 2.3120388291408593
+                },
+                "rotation": {
+                    "x": 0.00713751927635698,
+                    "y": 0.03338789020806547,
+                    "z": -0.0002382664785775707
+                },
+                "dimensions": {
+                    "x": 0.8358140349139583,
+                    "y": 0.6242423480520994,
+                    "z": 1.6166558360906684
+                }
+            },
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T07:53:57.109Z",
+            "createdAt": "2021-05-20T07:51:43.957Z"
+        },
+        {
+            "key": "9b98f746689349a2bbac67e2edcad275",
+            "objectKey": "9c23a2cdd49b4ad19e33c5190f937eae",
+            "geometryType": "cuboid_3d",
+            "geometry": {
+                "position": {
+                    "x": 0.541804171280694,
+                    "y": 0.9415578321725127,
+                    "z": 2.5051704423823025
+                },
+                "rotation": {
+                    "x": 0.020697680848746902,
+                    "y": -0.008643206972432264,
+                    "z": -1.3553033392778458e-20
+                },
+                "dimensions": {
+                    "x": 0.6725230791435342,
+                    "y": 0.30210054959769,
+                    "z": 1.2041970717387684
+                }
+            },
+            "labelerLogin": "suhanovroman",
+            "updatedAt": "2021-05-20T07:56:16.554Z",
+            "createdAt": "2021-05-20T07:54:24.355Z"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "classes": [
+        {
+            "title": "limb",
+            "shape": "cuboid_3d",
+            "color": "#59E859",
+            "geometry_config": {},
+            "id": 2928875,
+            "hotkey": ""
+        },
+        {
+            "title": "other",
+            "shape": "cuboid_3d",
+            "color": "#E0F21C",
+            "geometry_config": {},
+            "id": 2928842,
+            "hotkey": ""
+        },
+        {
+            "title": "wear",
+            "shape": "cuboid_3d",
+            "color": "#EE8181",
+            "geometry_config": {},
+            "id": 2928877,
+            "hotkey": ""
+        },
+        {
+            "title": "human",
+            "shape": "cuboid_3d",
+            "color": "#7C0995",
+            "geometry_config": {},
+            "id": 2928841,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "point_clouds"
+}
