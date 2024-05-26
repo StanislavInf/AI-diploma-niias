@@ -9,6 +9,9 @@ json_path = '../vkr/safety-doors/08_00 МСК 23 мая/point _end/clouds_stereo
 cloud_path = '../vkr/safety-doors/08_00 МСК 23 мая/point _end/clouds_stereo/cloud_2_0010.pcd'
 json_path = '../vkr/safety-doors/08_00 МСК 23 мая/point _end/clouds_stereo_ann/cloud_2_0010.pcd.json'
 
+cloud_path = '../../vkr/safety-doors/08_00 МСК 23 мая/point _end/clouds_tof/cloud_0_0041.pcd'
+json_path = '../../vkr/safety-doors/08_00 МСК 23 мая/point _end/clouds_tof_ann/cloud_0_0041.pcd.json'
+
 cloud = o3d.io.read_point_cloud(cloud_path)
 print('points:', np.asarray(cloud.points))
 print('colors:', np.asarray(cloud.colors))
@@ -54,14 +57,14 @@ cuboids = [create_cuboid(figure, data) for figure in figures]
 
 axes = o3d.geometry.TriangleMesh.create_coordinate_frame(size=4, origin=[0, 0, 0])
 
-# cloud = cloud.voxel_down_sample(voxel_size=0.05)
+cloud_downsampled = cloud.voxel_down_sample(voxel_size=0.05)
+# cloud_downsampled = cloud.uniform_down_sample(every_k_points=5)
 
-cloud_downsampled = cloud.uniform_down_sample(every_k_points=5)
 w, index = cloud_downsampled.segment_plane(distance_threshold=0.1, ransac_n=3, num_iterations=1000)
 print('Fitted: ', w)
 non_floor_cloud = cloud_downsampled.select_by_index(index, invert=True)
 
 
-o3d.visualization.draw_geometries([cloud, axes] + cuboids)
-# o3d.visualization.draw_geometries([cloud, axes])
+# o3d.visualization.draw_geometries([cloud, axes] + cuboids)
+o3d.visualization.draw_geometries([cloud, axes])
 # o3d.visualization.draw_geometries([non_floor_cloud, axes])
